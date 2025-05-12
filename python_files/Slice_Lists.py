@@ -7,4 +7,5 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 print("First three elements:", numbers[:3])
 print("Last three elements:", numbers[-3:])
 print("Elements from index 2 to 5:", numbers[2:6])
+print("Elements from index 1 to 3:", numbers[1:4])
 print("Every second element:", numbers[::2])
