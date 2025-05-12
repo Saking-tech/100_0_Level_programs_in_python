@@ -4,7 +4,7 @@
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 # Slice the list
-print("First three elements:", numbers[:3])
+print("First two elements:", numbers[:2])
 print("Last three elements:", numbers[-3:])
 print("Elements from index 2 to 5:", numbers[2:6])
 print("Elements from index 1 to 3:", numbers[1:4])
