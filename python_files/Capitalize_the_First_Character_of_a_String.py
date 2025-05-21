@@ -7,4 +7,4 @@ string = input("Enter a string: ")
 capitalized_string = string.capitalize()
 
 # Display the capitalized string
-print(f"Capitalized string: {capitalized_string}")
+print(f"Capitalized: {capitalized_string}")
