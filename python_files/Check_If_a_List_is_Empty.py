@@ -5,6 +5,6 @@ my_list = []
 
 # Check if list is empty
 if not my_list:
-    print("The list is empty")
+    print("The list IS empty")
 else:
-    print("The list is not empty")
+    print("The list is NOT empty")

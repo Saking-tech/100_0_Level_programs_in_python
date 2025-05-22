@@ -10,4 +10,4 @@ key = input("Enter the key to check: ")
 if key in my_dict:
     print(f"Key '{key}' is present in the dictionary")
 else:
-    print(f"Key '{key}' is not present in the dictionary")
+    print(f"Key '{key}' is NOT present in the dictionary")
